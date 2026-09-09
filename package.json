@@ -1,0 +1,9 @@
+{
+  "name": "react-projects",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix counter run dev -- --host 0.0.0.0",
+    "build": "npm --prefix counter run build",
+    "preview": "npm --prefix counter run preview -- --host 0.0.0.0"
+  }
+}
