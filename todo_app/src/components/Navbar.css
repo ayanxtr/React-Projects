@@ -1,0 +1,21 @@
+
+
+nav{
+    max-width: 70vw;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.325);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 8px;
+    margin: 20px auto;
+}
+
+h1{
+    background-color: transparent;
+    color: #087752;
+    font-family: poppins, sans-serif;
+    
+}
